@@ -1,0 +1,19 @@
+{
+  "name": "nubo-cli",
+  "version": "0.0.1",
+  "description": "Nubo CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unubo/nubo-cli.git"
+  },
+  "author": "Marcel Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unubo/nubo-cli/issues"
+  },
+  "homepage": "https://github.com/unubo/nubo-cli#readme"
+}
